@@ -1,0 +1,16 @@
+.navbar{
+  position:fixed;
+  text-align: center;
+  background-color: grey;
+}
+nav ul li{
+  display: inline-block;
+  text-align: center;
+  height: 50px;
+}
+a:hover{
+  color: red;
+}
+.buttons a{
+
+}
